@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JEE1Tomcat.iml" filepath="$PROJECT_DIR$/JEE1Tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterpriceEdition.iml" filepath="$PROJECT_DIR$/enterpriceEdition.iml" />
     </modules>
   </component>
 </project>
